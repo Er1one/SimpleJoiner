@@ -1,0 +1,23 @@
+messages:
+  first:
+    message:
+      - " "
+      - " &fИгрок &6&l%player% &fворвался с ноги в игру!"
+      - " "
+    sound: ENTITY_CAT_AMBIENT
+    title: "&6Такой-то игрок с ником &e&l%player% вошёл в игру!;&fКруто!"
+    action-bar: "&6Такой-то игрок с ником &e&l%player% вошёл в игру!"
+
+menu:
+  rows: 5
+  title: "&6Выбор сообщения при входе"
+  items:
+    11:
+      name: "&6Головешка с номером 1"
+      lore:
+        - ""
+        - ""
+        - ""
+        - ""
+      hash: "123"
+      message: first

@@ -1,0 +1,8 @@
+name: SimpleJoiner
+version: '${project.version}'
+main: ru.er1one.simplejoiner.SimpleJoiner
+api-version: 1.16
+authors: [ er1one ]
+website: https://vk.com/er1one
+commands:
+  setMessage:
